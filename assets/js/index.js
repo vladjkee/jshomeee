@@ -1,11 +1,11 @@
 // Даны числа 4, -2, 5, 19, -130, 0, 10. Найдите минимальное и максимальное число.
 
 
-//  var arr = [4, -2, 5, 19, -130, 0, 10];
-//  var max = Math.max.apply(null, arr);
-// var min = Math.min.apply(null, arr);
-//  console.log(max); 
-// console.log(min); 
+// //  var arr = [4, -2, 5, 19, -130, 0, 10];
+// //  var max = Math.max.apply(null, arr);
+// // var min = Math.min.apply(null, arr);
+// //  console.log(max); 
+// // console.log(min); 
 
 
 
